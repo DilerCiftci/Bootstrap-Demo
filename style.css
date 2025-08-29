@@ -1,0 +1,31 @@
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: silver;
+}
+
+h1{
+    background-color: black;
+    color: silver;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.btn-primary {
+   background-color: goldenrod;
+   color: black;
+   border: 2px solid black;
+   font-family: 'Bebas Neue', sans-serif;
+}
+
+body{
+    background-color: silver;
+}
+
+p{
+    color: black;
+    font-family: 'Babas Neue', sans-serif;
+}
