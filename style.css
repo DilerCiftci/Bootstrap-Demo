@@ -1,4 +1,4 @@
-footer{
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -8,24 +8,29 @@ footer{
     color: silver;
 }
 
-h1{
+h1 {
     background-color: black;
     color: silver;
     font-family: 'Bebas Neue', sans-serif;
 }
 
 .btn-primary {
-   background-color: goldenrod;
-   color: black;
-   border: 2px solid black;
-   font-family: 'Bebas Neue', sans-serif;
+    background-color: goldenrod;
+    color: black;
+    border: 2px solid black;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
-body{
+body {
     background-color: silver;
 }
 
-p{
+p {
     color: black;
     font-family: 'Babas Neue', sans-serif;
+}
+
+#skobilder {
+    border: 2px solid black;
+    border-radius: 50px;
 }
