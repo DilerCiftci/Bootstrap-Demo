@@ -1,13 +1,3 @@
-footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    background-color: black;
-    color: silver;
-}
-
 h1 {
     background-color: black;
     color: silver;
@@ -51,4 +41,20 @@ img {
 
 #startft {
     position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: silver;
+}
+
+#fter {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: silver;
 }
