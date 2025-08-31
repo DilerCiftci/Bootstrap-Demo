@@ -1,5 +1,5 @@
 footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -30,7 +30,25 @@ p {
     font-family: 'Babas Neue', sans-serif;
 }
 
-#skobilder {
+img {
     border: 2px solid black;
-    border-radius: 50px;
+}
+
+#hvdtxt {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+}
+
+#hvdtxtett {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+}
+
+#hvdtxttvå {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+}
+
+#startft {
+    position: absolute;
 }
